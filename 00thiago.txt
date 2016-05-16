@@ -2,8 +2,13 @@ Bejo: Thiago Hersan
 "images/bejo.jpg"
 
 
-<span class="note">Thiago Hersan é graduado em engenharia eletrônica. Gosta de sorvete de maracujá. Já fez isso, isto e aquilo com fulano, cicrano e beltrano. É amigo do Radamés. Participou de umas coisas e eventos.</span>
+<span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados.
+
+Hoje, trabalha com educação, arte, cultura digital, e outras coisas. Foi engenheiro-designer na BeatBots, uma empresa que desenvolvia brinquedos robóticos para fins acadêmicos e educacionais. Recentemente foi pesquisador-residente no FACT em Liverpool, onde, junto com Radamés Ajna, montou o FACTLab, um espaço de experimentação para projetos de arte e tecnologia.
+
+Também é integrante do coletivo Astrovandalistas, que usa tecnologia, arte, ativismo e design para ampliar as possibilidades de comunicação afetiva, e criar experiências públicas compartilhadas.</span>
 <span class="ne"></span>
+
 On the day for judging, at Ludgate Hill I took a ticket and the train for the Crystal Palace. Sitting alone in the comfortable cushioned compartment of a "first class," I confess I felt somewhat more than anxious as to the issue of the experiment. Yes; what would it be like? Would there be many cats? How many? How would the animals comport themselves in their cages? Would they sulk or cry for liberty, refuse all food? or settle down and take the situation quietly and resignedly, or give way to terror? I could in no way picture to myself the scene; it was all so new. Presently, and while I was musing on the subject, the door was opened, and a friend got in. "Ah!" said he, "how are you?" "Tolerably well," said I; "I am on my way to the Cat Show." "What!" said my friend, "that surpasses everything! A show of cats! Why, I hate the things; I drive them off my premises when I see them. You'll have a fine bother with them in their cages! Or are they to be tied up? Anyhow, what a noise there will be, and how they will clutch at the bars and try and get out, or they will strangle themselves with their chains." "I am sorry, very sorry," said I, "that you do not like cats.
 
 "images/post.jpg"
