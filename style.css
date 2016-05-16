@@ -1,0 +1,185 @@
+/* this stylesheet is used when generating a PDF with PrinceXML or any other tool that understands the CSS used. */
+/* define a page */
+@page {
+    size: 5.5in 5.5in;
+    margin: 70pt 50pt 70pt 120pt;
+    @left-middle{
+        margin: 0 10pt 0 10pt;
+        content: flow(notes);
+    }
+}
+
+img {
+    max-width: 100%;
+}
+div.contents{
+    page: contents;
+}
+
+div.frontcover { 
+    page: cover;
+    position:relative;
+    width: 100%;
+    height: 100%;
+}
+
+.frontcover h2 {
+    font-size: 32px;
+    position: absolute;
+    top: 66%;
+    width: 100%;
+    color: hotpink;
+    text-align: center;
+    line-height: 100%;
+}
+
+div.projcover {
+    page: cover;
+    position:relative;
+    width: 100%;
+    height: 100%;
+}
+
+.projcover h2 {
+    font-size: 32px;
+    position: absolute;
+    top: 66%;
+    width: 100%;
+    color: hotpink;
+    text-align: center;
+    line-height: 100%;
+}
+
+@page:right{
+    @bottom-left {
+        margin: 10pt 0 30pt;
+        border-top: .25pt solid #666;
+        content: "Catálogo";
+        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-size: 9pt;
+        color: #333;
+    }
+    @bottom-right { 
+        margin: 10pt 0 30pt;
+        border-top: .25pt solid #666;
+        content: counter(page);
+        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-size: 9pt;
+        color: #333;
+    }
+    @top-right { 
+        margin: 30pt 0 10pt;
+        content: string(doctitle);
+        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-size: 9pt;
+        color: #333;
+    }
+}
+
+/* styles for the left hand spread 
+Bottom right book title, bottom left current page */
+@page:left {
+    @bottom-right {
+        margin: 10pt 0 30pt;
+        border-top: .25pt solid #666;
+        content: "Catálogo";
+        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-size: 9pt;
+        color: #333;
+    }
+    @bottom-left { 
+        margin: 10pt 0 30pt;
+        border-top: .25pt solid #666;
+        content: counter(page);
+        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-size: 9pt;
+    }
+}
+
+/* first page */
+@page cover {
+    margin: 0;
+    @bottom-right {
+        content: none;
+    }
+    @bottom-left {
+        content: none;
+    }
+    @top-right {
+        content: none;
+    }
+    @left-middle{
+        content: none;
+    }
+}
+
+@page contents {
+    margin: 70pt 60pt;
+    @left-middle{
+        margin: 0;
+        content: none;
+    }
+}
+/* reset chapter and figure counters on the body */
+body {
+    counter-reset: chapternum;
+    font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+    line-height: 1.5;
+    font-size: 10pt;
+}
+
+.note {
+    flow: static(notes);
+    font-size: 8pt;
+    color: grey;
+}
+.ne {
+    flow: static(notes);
+}
+
+/* get the title of the current chapter - this will be the content of the h1 
+reset figure counter as figures start from 1 in each chapter */
+h1 {
+    string-set: doctitle content();
+    page-break-before: always;
+    line-height: 1.3;
+    font-size: 20pt;
+}
+
+/* increment chapter counter */
+h1.chapter:before {
+    counter-increment: chapternum;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: bold;
+    page-break-after: avoid;
+    page-break-inside:avoid;
+}
+
+h1+p, h2+p, h3+p {
+    page-break-before: avoid;
+}
+
+ul.toc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* create page numbers using target-counter in the TOC */
+ul.toc a::after {
+    content: leader('.') target-counter(attr(href), page);
+}
+
+ul.toc li {
+    line-height: 2;
+}
+
+ul.toc li a {
+    text-decoration: none;
+}
+
+a {
+    color: #000;
+}
