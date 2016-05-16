@@ -24,13 +24,14 @@ div.frontcover {
 }
 
 .frontcover h2 {
-    font-size: 32px;
+    font-size: 48px;
     position: absolute;
     top: 66%;
     width: 100%;
-    color: hotpink;
-    text-align: center;
+    color: midnightblue;
+    /*text-align: center;*/
     line-height: 100%;
+    margin: 0 0 0 10pt;
 }
 
 div.projcover {
