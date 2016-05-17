@@ -11,10 +11,11 @@ if ( $data['repository'] ) {
     }
     elseif( strcmp($data['repository']['full_name'], "thiagohersan/FATA2016-Site") == 0 ){
         echo "Generating Site";
-        //shell_exec( 'cd /home/tgh/FATA2016-Site && git reset --hard HEAD && git pull origin master' );
-        //shell_exec( 'cd /home/tgh/FATA2016-Site && hugo' );
-        //shell_exec( 'cd /home/tgh/WWW && rm -rf FATA2016/*' );
-        //shell_exec( 'cp -r /home/tgh/FATA2016-Cata/public/* /home/tgh/WWW/FATA2016/' );
+        shell_exec( 'cd /home/tgh/FATA2016-Site && git reset --hard HEAD && git pull origin master' );
+        shell_exec( 'rm -r /home/tgh/FATA2016-Site/public' );
+        shell_exec( 'rm -rf /home/tgh/WWW/FATA2016' );
+        shell_exec( 'cd /home/tgh/FATA2016-Site && hugo' );
+        shell_exec( 'cp -r /home/tgh/FATA2016-Site/public /home/tgh/WWW/FATA2016' );
         echo "Site Ready";
     }
 }
