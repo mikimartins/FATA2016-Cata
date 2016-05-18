@@ -5,4 +5,6 @@ La instalación de láser chat es una continuación de una investigación sobre 
 
 En la galería, está configurado para conectar dos computadoras que están a 10 metros de distancia utilizando una interfaz de chat, pero la misma tecnología se podría utilizar para crear un enlace entre comunidades que estén separadas por distancias mucho mas largas.
 
+"images/laser01.jpg"
+
 Las transmisiones efímeras del chat se complementan con rocas grabadas a láser. Esto proporciona la posibilidad de crear una conexión a través de grandes distancias en el tiempo, y también hace referencia a otras formas de redes donde los intercambios son más tangibles y personales.
