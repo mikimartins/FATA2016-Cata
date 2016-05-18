@@ -1,0 +1,8 @@
+Laser Chat Transfonterizo: Astrovandalistas
+"images/laser00.jpg"
+
+La instalación de láser chat es una continuación de una investigación sobre redes privadas y comunicación afectiva. También es una demostración práctica de cómo reinterpretar y reimaginar las tecnologías espaciales para usos terrestres y comunitários. Se basa en un par de proyectos de la NASA que utilizan la luz para transmitir datos entre grandes distancias.
+
+En la galería, está configurado para conectar dos computadoras que están a 10 metros de distancia utilizando una interfaz de chat, pero la misma tecnología se podría utilizar para crear un enlace entre comunidades que estén separadas por distancias mucho mas largas.
+
+Las transmisiones efímeras del chat se complementan con rocas grabadas a láser. Esto proporciona la posibilidad de crear una conexión a través de grandes distancias en el tiempo, y también hace referencia a otras formas de redes donde los intercambios son más tangibles y personales.
