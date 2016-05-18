@@ -16,7 +16,7 @@ if __name__ == "__main__":
     TOC = ""
     BODY = ""
 
-    for idx,filename in enumerate([f for f in listdir(DATA_DIR) if f.endswith(".txt")]):
+    for idx,filename in enumerate([f for f in sorted(listdir(DATA_DIR)) if f.endswith(".txt")]):
         fullPath = join(DATA_DIR, filename)
         print "PROCESSING: %s"%fullPath
         
