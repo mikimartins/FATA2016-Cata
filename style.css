@@ -26,7 +26,7 @@ div.frontcover {
 
 .frontcover h2 {
     margin: 0 0 0 10pt;
-    font-size: 48px;
+    font-size: 42px;
     position: absolute;
     top: 66%;
     width: 100%;
@@ -46,6 +46,18 @@ div.projcover {
     width: 100%;
     color: hotpink;
     text-align: center;
+    line-height: 100%;
+}
+
+.contents h2 {
+    margin: 0 0 20px 0;
+    font-size: 24px;
+    line-height: 100%;
+}
+
+.contents h3 {
+    margin: 20px 0 0 0;
+    font-size: 16px;
     line-height: 100%;
 }
 
