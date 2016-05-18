@@ -10,8 +10,11 @@
 }
 
 img {
-    max-width: 100%;
+    max-height: 5.5in;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
+
 div.contents{
     page: contents;
 }
@@ -19,32 +22,27 @@ div.contents{
 div.frontcover { 
     page: cover;
     position:relative;
-    width: 100%;
-    height: 100%;
 }
 
 .frontcover h2 {
+    margin: 0 0 0 10pt;
     font-size: 48px;
     position: absolute;
     top: 66%;
     width: 100%;
     color: midnightblue;
-    /*text-align: center;*/
     line-height: 100%;
-    margin: 0 0 0 10pt;
 }
 
 div.projcover {
     page: cover;
     position:relative;
-    width: 100%;
-    height: 100%;
 }
 
 .projcover h2 {
     font-size: 32px;
     position: absolute;
-    top: 66%;
+    top: 75%;
     width: 100%;
     color: hotpink;
     text-align: center;
