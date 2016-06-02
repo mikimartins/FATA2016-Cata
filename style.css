@@ -19,7 +19,7 @@ div.contents{
     page: contents;
 }
 
-div.frontcover { 
+div.frontcover, div.backcover {
     page: cover;
     position:relative;
 }
@@ -27,10 +27,11 @@ div.frontcover {
 .frontcover h2 {
     margin: 0 0 0 10pt;
     font-size: 42px;
+    text-align: right;
     position: absolute;
-    top: 66%;
-    width: 100%;
-    color: midnightblue;
+    top: 90%;
+    width: 95%;
+    color: #61ccf6;
     line-height: 100%;
 }
 
