@@ -12,9 +12,11 @@ if __name__ == "__main__":
     TOC_TAG = "<!-- !!! TOCTOCTOC !!! -->"
     BODY_TAG = "<!-- !!! BODYBODY !!! -->"
 
-    
-    TOC = ""
     BODY = ""
+    TOC = ""
+
+    TOC += "            <h3>Projetos</h3>\n"
+    TOC += "            <ul class=\"toc\">\n"
 
     for idx,filename in enumerate([f for f in sorted(listdir(DATA_DIR)) if f.endswith(".txt")]):
         fullPath = join(DATA_DIR, filename)
@@ -47,6 +49,9 @@ if __name__ == "__main__":
         if cHtml is not "":
             BODY += cHtml
 
+    # close TOC
+    TOC += "            </ul>\n"
+
     # write output file
     with open(join(DATA_DIR, BOOK_NAME+".html"), 'w') as out, open(join(DATA_DIR, HTML_TEMPLATE)) as temp:
         for line in temp.readlines():
@@ -64,5 +69,3 @@ if __name__ == "__main__":
     system("rm -rf %s.pdf"%(BOOK_NAME))
     system("ps2pdf %s.ps %s.pdf"%(BOOK_NAME,BOOK_NAME))
     system("rm -rf %s.ps"%(BOOK_NAME))
-
-
