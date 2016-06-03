@@ -12,6 +12,8 @@ if __name__ == "__main__":
     BOOK_NAME = "xbook"
     TOC_TAG = "<!-- !!! TOCTOCTOC !!! -->"
     BODY_TAG = "<!-- !!! BODYBODY !!! -->"
+    # ["#78d2ce", "#61ccf6", "#5758b2", "#6b3a9e", "#4e78c5"]
+    COLORS = ["#78d2ce", "#61ccf6", "#61ccf6", "#4e78c5"]
 
     BODY = ""
     TOC = ""
@@ -31,20 +33,23 @@ if __name__ == "__main__":
 
             cHtml = ""
             cTitle = ""
+            cAuthor = ""
 
             # expand the html and add to TOC list
             with open(fullPath) as txt:
                 for line in txt.read().splitlines():
                     if cTitle is "":
-                        cTitle = line
+                        titleAuthor = line.split(":")
+                        cTitle = titleAuthor[0].strip()
+                        cAuthor = titleAuthor[-1].strip()
                         TOC += "				<li><a href=\"#ch%s\">%s</a></li>\n"%(str(idx), cTitle)
                     elif "images/" in line:
                         if cHtml is "":
-                            cHtml += "        <div class=\"projcover\">\n"
+                            cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
                             cHtml += "            <img src=%s />\n"%line
-                            cHtml += "            <h2>%s</h2>\n"%cTitle.replace(": ","<br />")
+                            cHtml += "            <h2><span style=\"color:%s;\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(COLORS[idx%len(COLORS)],cTitle, cAuthor)
                             cHtml += "        </div>\n"
-                            cHtml += "        <h1 id=\"ch%s\" class=\"chapter\">%s</h1>\n"%(str(idx), cTitle)
+                            cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
                         else:
                             cHtml += "        <div class=\"projcover\">\n"
                             cHtml += "            <img src=%s />\n"%line
