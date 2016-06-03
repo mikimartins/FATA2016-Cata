@@ -15,16 +15,17 @@ if __name__ == "__main__":
 
     BODY = ""
     TOC = ""
+    idx = 0
 
     for txtDir in [f for f in sorted(listdir(DATA_DIR)) if isdir(join(DATA_DIR, f))]:
         thisDir = join(DATA_DIR, txtDir)
         thisHeading = sub(r"[0-9]+", "", txtDir).title()
-        
+
         TOC += "            <h3>%s</h3>\n"%thisHeading
         TOC += "            <ul class=\"toc\">\n"
 
 
-        for idx,filename in enumerate([f for f in sorted(listdir(thisDir)) if f.endswith(".txt")]):
+        for filename in [f for f in sorted(listdir(thisDir)) if f.endswith(".txt")]:
             fullPath = join(thisDir, filename)
             print "PROCESSING: %s"%fullPath
 
@@ -54,6 +55,7 @@ if __name__ == "__main__":
 
             if cHtml is not "":
                 BODY += cHtml
+            idx += 1
 
         # close TOC
         TOC += "            </ul>\n"
