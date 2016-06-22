@@ -1,0 +1,27 @@
+Espectros: Mateus Knelsen
+color: #61ccf6;
+"images/cronos.jpg"
+
+<span class="note" style="text-align:right;">Mateus Knelsen atua como artista, programador e pesquisador sobre poéticas a partir dos meios de comunicação.<br/><br/>
+
+É formado em Design Digital pela Universidade Anhembi Morumbi, e atualmente é mestrando em Poéticas Interdisciplinares pela Universidade Federal do Rio de Janeiro.<br/><br/>
+
+Atua também como educador e realizador de oficinas sobre tecnologias da imagem, programação e seus usos criativos.</span>
+<span class="ne"></span>
+
+O projeto Espectros é composto por 3 instalações: <br/><br/>
+
+<b>Sem título</b><br/>
+Essa instalação consiste em uma projeção numa parede que exibe vídeos de arquivo, eventualmente sobrepostos com imagens de 'vultos' das pessoas circulando pela mostra.<br/><br/>
+
+<b>Cronoscopia</b><br/>
+Nessa instalação, o visitante é convidado a sentar-se diante de um aparato que coloca diante dele dois espelhos planos, perpendiculares entre eles, e na altura dos olhos. Atrás do visitante estão dois monitores. Um deles exibe vídeos de paisagens e espaços, oriundos de arquivo de família. O outro exibe um vídeo com gravações do próprio lugar da exposição (possivelmente oriunda de uma câmera apontada para a janela da sala).
+"images/fugaz.jpg"
+
+Quando sentado e se devidamente posicionado diante dos espelhos, o visitante vê neles o reflexo dos vídeos dos monitores que se encontram atrás dele. No seu campo de visão, o que o visitante vê é uma imagem que é um 'intervalo', um 'entre-estados' de imagem entre os vídeos exibidos nos monitores. Se o visitante move as mãos, graças a um Leap Motion instalado na base do suporte dos espelhos, o movimento das mãos altera o tempo dos vídeos (o visitante literalmente 'manipula' a linha do tempo dos vídeos).<br/><br/>
+
+<b>Sem título</b><br/>
+Quando o visitante se aproxima a um dos 4 lados de uma pirâmide de acrílico, são projetadas imagens numa tela, no lado onde o visitante se encontra. Como a superfície da pirâmide é transparente e está inclinada a 45 graus em relação a tela de projeção, o que o visitante observa é uma imagem que se encontra 'no centro' da pirâmide, mas com um certo aspecto 'fantasmagórico' ou 'holográfico'.<br/><br/>
+
+"images/insercoes.jpg"
+Tais imagens são pequenos recortes de memórias do artista, em conjunto à outras imagens que provém da internet, a maioria delas tem relação com a casa na qual o artista passou a sua infância. Esses pequenos recortes 'fantasmagóricos' estão posicionados de maneira a sugerirem relações com os pequenos objetos presentes no interior da pirâmide. Conforme o visitante caminha ao redor da pirâmide, outras situações são 'encenadas' nos lados pelos quais ele/ela passa.
