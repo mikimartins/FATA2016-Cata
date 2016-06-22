@@ -1,4 +1,5 @@
 O Afeto na Era de Sua Reprodutibilidade Digital: Thiago Hersan
+color: #78d2ce;
 "images/afeto_digital.jpg"
 
 <span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados.

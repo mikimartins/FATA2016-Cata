@@ -13,7 +13,6 @@ if __name__ == "__main__":
     TOC_TAG = "<!-- !!! TOCTOCTOC !!! -->"
     BODY_TAG = "<!-- !!! BODYBODY !!! -->"
     # ["#78d2ce", "#61ccf6", "#5758b2", "#6b3a9e", "#4e78c5"]
-    COLORS = ["#78d2ce", "#61ccf6", "#61ccf6", "#4e78c5"]
 
     BODY = ""
     TOC = ""
@@ -34,6 +33,7 @@ if __name__ == "__main__":
             cHtml = ""
             cTitle = ""
             cAuthor = ""
+            cTitleColor = "color: #78d2ce;"
 
             # expand the html and add to TOC list
             with open(fullPath) as txt:
@@ -43,11 +43,13 @@ if __name__ == "__main__":
                         cTitle = titleAuthor[0].strip()
                         cAuthor = titleAuthor[-1].strip()
                         TOC += "				<li><a href=\"#ch%s\">%s</a></li>\n"%(str(idx), cTitle)
+                    elif line.startswith("color:"):
+                        cTitleColor = line.strip()
                     elif "images/" in line:
                         if cHtml is "":
                             cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
                             cHtml += "            <img src=%s />\n"%line
-                            cHtml += "            <h2><span style=\"color:%s;\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(COLORS[idx%len(COLORS)],cTitle, cAuthor)
+                            cHtml += "            <h2><span style=\"%s;\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(cTitleColor,cTitle, cAuthor)
                             cHtml += "        </div>\n"
                             cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
                         else:
@@ -78,7 +80,7 @@ if __name__ == "__main__":
 
     # make pdf
     system("prince -s style.css %s.html -o %s.pdf"%(BOOK_NAME,BOOK_NAME))
-    system("pdf2ps %s.pdf %s.ps"%(BOOK_NAME,BOOK_NAME))
-    system("rm -rf %s.pdf"%(BOOK_NAME))
-    system("ps2pdf %s.ps %s.pdf"%(BOOK_NAME,BOOK_NAME))
-    system("rm -rf %s.ps"%(BOOK_NAME))
+    #system("pdf2ps %s.pdf %s.ps"%(BOOK_NAME,BOOK_NAME))
+    #system("rm -rf %s.pdf"%(BOOK_NAME))
+    #system("ps2pdf %s.ps %s.pdf"%(BOOK_NAME,BOOK_NAME))
+    #system("rm -rf %s.ps"%(BOOK_NAME))
