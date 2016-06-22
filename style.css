@@ -165,13 +165,16 @@ body {
     font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
     line-height: 1.5;
     font-size: 12px;
+    text-align: justify;
 }
 
 .note {
     flow: static(notes);
     font-size: 10px;
     color: grey;
+    text-align: left;
 }
+
 .ne {
     flow: static(notes);
 }
@@ -183,6 +186,7 @@ h1 {
     page-break-before: always;
     line-height: 1.3;
     font-size: 24px;
+    text-align: left;
 }
 
 /* increment chapter counter */
@@ -194,6 +198,7 @@ h1,h2,h3,h4,h5 {
     font-weight: bold;
     page-break-after: avoid;
     page-break-inside:avoid;
+    text-align: left;
 }
 
 h1+p, h2+p, h3+p {
