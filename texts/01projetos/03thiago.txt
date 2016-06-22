@@ -1,15 +1,23 @@
 XOXOXOLOLOLOL: Thiago Hersan
+color: #444;
 "images/bejo.jpg"
 
+<span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados. <br /><br />
 
-<span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados.
-<br />
-<br />
 Hoje, trabalha com educação, arte, cultura digital, e outras coisas.</span>
 <span class="ne"></span>
 
-On the day for judging, at Ludgate Hill I took a ticket and the train for the Crystal Palace. Sitting alone in the comfortable cushioned compartment of a "first class," I confess I felt somewhat more than anxious as to the issue of the experiment. Yes; what would it be like? Would there be many cats? How many? How would the animals comport themselves in their cages? Would they sulk or cry for liberty, refuse all food? or settle down and take the situation quietly and resignedly, or give way to terror? I could in no way picture to myself the scene; it was all so new. Presently, and while I was musing on the subject, the door was opened, and a friend got in. "Ah!" said he, "how are you?" "Tolerably well," said I; "I am on my way to the Cat Show." "What!" said my friend, "that surpasses everything! A show of cats! Why, I hate the things; I drive them off my premises when I see them. You'll have a fine bother with them in their cages! Or are they to be tied up? Anyhow, what a noise there will be, and how they will clutch at the bars and try and get out, or they will strangle themselves with their chains." "I am sorry, very sorry," said I, "that you do not like cats.
+XOXOXOLOLOLOL é um projeto de projetos. Um espaço instalativo que explora as traduções e movimentos do afeto entre ambientes analógicos e digitais.<br /><br />
+
+Dentro desse espaço expositivo exploramos o limite da padronização, classificação e automatização de nossas interações digitais com projetos que se apropriam das interfaces de aplicativos e redes sociais para resignificar e personalizar essas formas de comunicação.<br /> <br />
+
+Pensando nas inquietações e ansiedades geradas por essa massificação e comercialização dos nossos afetos e comunicação, o projeto propõe a criação de redes sociais analógicas a partir de objetos físicos pessoais que possam ser recriados e distribuídos.<br />
 
 "images/post.jpg"
 
-For my part, I think them extremely beautiful, also very graceful in all their actions, and they are quite as domestic in their habits as the dog, if not more so. They are very useful in catching rats and mice; they are not deficient in sense; they will jump up at doors to push up latches with their paws. I have known them knock at a door by the knocker when wanting admittance. They know Sunday from the week-day, and do not go out to wait for the meat barrow on that day; they——" "Stop," said my friend, "I see you do like cats, and I do not, so let the matter drop." "No," said I, "not so. That is why I instituted this Cat Show; I wish every one to see how beautiful a well-cared-for cat is, and how docile, gentle, and—may I use the term?—cossetty. Why should not the cat that sits purring in front of us before the fire be an object of interest, and be selected for its colour, markings, and form? Now come with me, my dear old friend, and see the first Cat Show."
+Como ponto inicial de experimentação, e partindo de um desejo de querer estar em vários lugares ao mesmo tempo, criei carimbos no formato do meu beijo, que depois foram enviados à diversas cidades do mundo para amigos e amigas imigrantes, que moram longe de seus países natais. O projeto também recebe vídeos, fotos e objetos criados a partir do carimbo-beijo por pessoas dentro dessa rede social analógica, globalizada e distibuida.<br />
+
+
+
+
+
