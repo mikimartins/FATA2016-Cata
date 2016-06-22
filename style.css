@@ -2,11 +2,6 @@
 /* define a page */
 @page {
     size: 175mm 148mm;
-    margin: 20mm 20mm 20mm 40mm;
-    @left-middle{
-        margin: 0 10pt 0 10pt;
-        content: flow(notes);
-    }
 }
 
 img {
@@ -68,6 +63,7 @@ div.projcover {
 }
 
 @page:right{
+    margin: 20mm 40mm 20mm 20mm;
     @bottom-left {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
@@ -91,11 +87,16 @@ div.projcover {
         font-size: 11px;
         color: #333;
     }
+    @right-middle {
+        margin: 0 5mm 0 5mm;
+        content: flow(notes);
+    }
 }
 
 /* styles for the left hand spread 
 Bottom right book title, bottom left current page */
 @page:left {
+    margin: 20mm 20mm 20mm 40mm;
     @bottom-right {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
@@ -111,6 +112,10 @@ Bottom right book title, bottom left current page */
         font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
         font-size: 11px;
     }
+    @left-middle {
+        margin: 0 5mm 0 5mm;
+        content: flow(notes);
+    }
 }
 
 /* first page */
@@ -125,7 +130,13 @@ Bottom right book title, bottom left current page */
     @top-right {
         content: none;
     }
+    @top-left {
+        content: none;
+    }
     @left-middle{
+        content: none;
+    }
+    @right-middle{
         content: none;
     }
 }
@@ -136,7 +147,18 @@ Bottom right book title, bottom left current page */
         margin: 0;
         content: none;
     }
+    @right-middle{
+        margin: 0;
+        content: none;
+    }
+    @top-right {
+        content: none;
+    }
+    @top-left {
+        content: none;
+    }
 }
+
 /* reset chapter and figure counters on the body */
 body {
     counter-reset: chapternum;
