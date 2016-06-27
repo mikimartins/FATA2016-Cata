@@ -9,7 +9,7 @@ from re import sub
 if __name__ == "__main__":
     DATA_DIR = "./texts"
     HTML_TEMPLATE = "html.html"
-    BOOK_NAME = "xbook"
+    BOOK_NAME = "FAT-Atibaia-2016"
     TOC_TAG = "<!-- !!! TOCTOCTOC !!! -->"
     BODY_TAG = "<!-- !!! BODYBODY !!! -->"
     # ["#78d2ce", "#61ccf6", "#5758b2", "#6b3a9e", "#4e78c5"]
