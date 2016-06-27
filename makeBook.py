@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
     # make pdf
     system("prince -s style.css %s.html -o %s.pdf"%(BOOK_NAME,BOOK_NAME))
-    #system("pdf2ps %s.pdf %s.ps"%(BOOK_NAME,BOOK_NAME))
-    #system("rm -rf %s.pdf"%(BOOK_NAME))
-    #system("ps2pdf %s.ps %s.pdf"%(BOOK_NAME,BOOK_NAME))
-    #system("rm -rf %s.ps"%(BOOK_NAME))
+    system("pdf2ps %s.pdf %s.ps"%(BOOK_NAME,BOOK_NAME))
+    system("rm -rf %s.pdf"%(BOOK_NAME))
+    system("ps2pdf %s.ps %s.pdf"%(BOOK_NAME,BOOK_NAME))
+    system("rm -rf %s.ps"%(BOOK_NAME))
