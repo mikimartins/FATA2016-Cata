@@ -6,7 +6,7 @@ if ( $data['repository'] ) {
         echo "Generating Catalog";
         shell_exec( 'cd /home/tgh/FATA2016-Cata && git reset --hard HEAD && git pull origin master' );
         shell_exec( 'cd /home/tgh/FATA2016-Cata && ./makeBook.py' );
-        shell_exec( 'cp /home/tgh/FATA2016-Cata/FAT-Atibaia-2016.pdf /home/tgh/WWW' );
+        shell_exec( 'cp /home/tgh/FATA2016-Cata/FAT-Atibaia-2016.pdf /home/tgh/WWW/FATA2016' );
         echo "Book Ready";
     }
     elseif( strcmp($data['repository']['full_name'], "thiagohersan/FATA2016-Site") == 0 ){
