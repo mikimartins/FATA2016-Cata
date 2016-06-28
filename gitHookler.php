@@ -16,6 +16,7 @@ if ( $data['repository'] ) {
         shell_exec( 'rm -rf /home/tgh/WWW/FATA2016' );
         shell_exec( 'cd /home/tgh/FATA2016-Site && hugo' );
         shell_exec( 'cp -r /home/tgh/FATA2016-Site/public /home/tgh/WWW/FATA2016' );
+        shell_exec( 'cp /home/tgh/FATA2016-Cata/FAT-Atibaia-2016.pdf /home/tgh/WWW/FATA2016' );
         echo "Site Ready";
     }
 }
