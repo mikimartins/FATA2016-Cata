@@ -9,18 +9,15 @@ color: #61ccf6;
 Atua também como educador e realizador de oficinas sobre tecnologias da imagem, programação e seus usos criativos.</span>
 <span class="ne"></span>
 
-O projeto Espectros é composto por 3 instalações: <br/><br/>
+O projeto Espectros é composto por 2 instalações: <br/><br/>
 
-<b>Sem título</b><br/>
-Essa instalação consiste em uma projeção numa parede que exibe vídeos de arquivo, eventualmente sobrepostos com imagens de 'vultos' das pessoas circulando pela mostra.<br/><br/>
-
-<b>Cronoscopia</b><br/>
-Nessa instalação, o visitante é convidado a sentar-se diante de um aparato que coloca diante dele dois espelhos planos, perpendiculares entre eles, e na altura dos olhos. Atrás do visitante estão dois monitores. Um deles exibe vídeos de paisagens e espaços, oriundos de arquivo de família. O outro exibe um vídeo com gravações do próprio lugar da exposição (possivelmente oriunda de uma câmera apontada para a janela da sala).
+<b>Dilema de um Fugitivo</b><br/>
+Essa instalação consiste em uma projeção numa parede que exibe vídeos de arquivo, eventualmente sobrepostos com imagens de 'vultos' das pessoas circulando pela mostra.
 "images/fugaz.jpg"
 
 Quando sentado e se devidamente posicionado diante dos espelhos, o visitante vê neles o reflexo dos vídeos dos monitores que se encontram atrás dele. No seu campo de visão, o que o visitante vê é uma imagem que é um 'intervalo', um 'entre-estados' de imagem entre os vídeos exibidos nos monitores. Se o visitante move as mãos, graças a um Leap Motion instalado na base do suporte dos espelhos, o movimento das mãos altera o tempo dos vídeos (o visitante literalmente 'manipula' a linha do tempo dos vídeos).<br/><br/>
 
-<b>Sem título</b><br/>
+<b>Gude</b><br/>
 Quando o visitante se aproxima a um dos 4 lados de uma pirâmide de acrílico, são projetadas imagens numa tela, no lado onde o visitante se encontra. Como a superfície da pirâmide é transparente e está inclinada a 45 graus em relação a tela de projeção, o que o visitante observa é uma imagem que se encontra 'no centro' da pirâmide, mas com um certo aspecto 'fantasmagórico' ou 'holográfico'.<br/><br/>
 
 "images/insercoes.jpg"
