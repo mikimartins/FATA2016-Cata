@@ -1,4 +1,4 @@
-Festival de Arte e Tecnologia: Josy Panão & Paloma Oliveira
+Festival de Arte e Tecnologia
 color: #ccc;
 "images/fata_cartaz.jpg"
 <br/><br/>
