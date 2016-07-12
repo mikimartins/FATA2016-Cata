@@ -1,4 +1,4 @@
-Festival de Arte e Tecnologia
+
 color: #ccc;
 "images/fata_cartaz.jpg"
 <br/><br/>
