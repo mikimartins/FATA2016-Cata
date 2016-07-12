@@ -1,7 +1,7 @@
-Festival de Arte e Tecnologia de Atibaia<br/><br/>
+Festival de Arte e Tecnologia de Atibaia<br/>
 color: #ccc;
 "images/fata_cartaz.jpg"
-<br/><br/>
+<br/>
 
 Por Josy Panão e Paloma Oliveira<br/><br/>
 <br/><br/>
