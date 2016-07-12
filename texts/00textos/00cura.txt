@@ -1,4 +1,4 @@
-Festival de Arte e Tecnologia de Atibaia
+Festival de Arte e Tecnologia de Atibaia<br/><br/>
 color: #ccc;
 "images/fata_cartaz.jpg"
 <br/><br/>
