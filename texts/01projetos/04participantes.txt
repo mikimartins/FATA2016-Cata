@@ -1,5 +1,6 @@
 Participantes
- 
 
 "images/bios_participantes.jpg"
-
+"images/bios_participantes_2.jpg"
+"images/bios_participantes_3.jpg"
+"images/bios_participantes_4.jpg"
