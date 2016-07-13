@@ -1,4 +1,4 @@
-
-"images/blank.jpg" 
+Participantes
+ 
 
 "images/bios_participantes.jpg"
