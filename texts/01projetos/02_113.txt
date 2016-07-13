@@ -2,14 +2,8 @@
 color: rgba(204,204,204,0);
 "images/113_0.jpg"
 
-<span class="note" style="text-align:right;">Juliana França é graduada em dança pela UNICAMP, e especialista pela UFBA (universidade Federal da Bahia) em Estudos Contemporâneos em Dança.<br/><br/>
-
-Tem desenvolvido o conceito de Sistemas Coreográficos em projetos individuais e coletivos, e realizado pesquisas que relacionam dança e arquitetura.<br/><br/>
-
-É diretora e curadora do Festival de dança contemporânea CAUSA ao lado de Leticia Nabuco, onde tem organizado e orientado residências coletivas e laboratórios de criação.
-</span>
+<span class="note" style="text-align:right;"></span>
 <span class="ne"></span>
-
 
 Residência artística que convida a pensar as relações entre corpo e tecnologia, provocando a invenção de extensões corporais a partir de materiais simples. A teoria dos sistemas apoia a investigação na medida em que se configura como um agregado de coisas que se relaciona, gerando uma coisa nova. Corpo e acoplamento são experimentados no sentido de gerar co-dependencia entre as partes, resultando em um novo organismo. O exercício de re-conhecer  o humano, inventando corpos, amplia a percepção sobre as transformações que o corpo vem experimentando diante das transformações dos meios e pode abrir, a partir da experiência, uma reflexão crítica sobre o assunto.<br/><br/>
 

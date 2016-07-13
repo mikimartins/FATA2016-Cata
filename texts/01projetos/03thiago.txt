@@ -2,9 +2,7 @@ XOXOXOLOLOLOL: Thiago Hersan
 color: rgba(204,204,204,0);
 "images/bejo.jpg"
 
-<span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados. <br /><br />
-
-Hoje, trabalha com educação, arte, cultura digital, e outras coisas.</span>
+<span class="note"></span>
 <span class="ne"></span>
 
 XOXOXOLOLOLOL é um projeto de projetos. Um espaço instalativo que explora as traduções e movimentos do afeto entre ambientes analógicos e digitais.<br /><br />

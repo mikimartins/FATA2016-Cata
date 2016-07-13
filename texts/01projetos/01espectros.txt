@@ -2,11 +2,7 @@ Espectros: Mateus Knelsen
 color: rgba(204,204,204,0);
 "images/insercoes.jpg"
 
-<span class="note" style="text-align:right;">Mateus Knelsen atua como artista, programador e pesquisador sobre poéticas a partir dos meios de comunicação.<br/><br/>
-
-É formado em Design Digital pela Universidade Anhembi Morumbi, e atualmente é mestrando em Poéticas Interdisciplinares pela Universidade Federal do Rio de Janeiro.<br/><br/>
-
-Atua também como educador e realizador de oficinas sobre tecnologias da imagem, programação e seus usos criativos.</span>
+<span class="note" style="text-align:right;"></span>
 <span class="ne"></span>
 
 O projeto Espectros é composto por 2 instalações:<br/><br/>
