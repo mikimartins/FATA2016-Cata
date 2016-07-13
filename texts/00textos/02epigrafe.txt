@@ -1,3 +1,0 @@
-Epígrafe
-color: rgba(204,204,204,0);
-"images/epígrafe_imagem.jpg"
