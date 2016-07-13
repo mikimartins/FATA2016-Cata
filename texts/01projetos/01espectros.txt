@@ -1,5 +1,5 @@
 Espectros: Mateus Knelsen
-color: #61ccf6;
+color: rgba(204,204,204,0);
 "images/insercoes.jpg"
 
 <span class="note" style="text-align:right;">Mateus Knelsen atua como artista, programador e pesquisador sobre poéticas a partir dos meios de comunicação.<br/><br/>

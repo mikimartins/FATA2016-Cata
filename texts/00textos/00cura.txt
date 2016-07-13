@@ -1,12 +1,13 @@
 Festival de Arte e Tecnologia de Atibaia
-color: #ccc;
+color: rgba(204,204,204,0);
 "images/fata_cartaz.jpg"
 
-Por Josy Panão e Paloma Oliveira<br/><br/>
+Por Josy Panão e Paloma Oliveira
+<br/><br/>
+<br/><br/>
 <br/><br/>
 
-
-<br/><br/>Como a tecnologia nos afeta e pode nos tornar mais sensíveis em nossas relações cotidianas? Que lugar ela ocupa em nossas vidas? E o que a arte tem a ver com tudo isso?<br/><br/>
+Como a tecnologia nos afeta e pode nos tornar mais sensíveis em nossas relações cotidianas? Que lugar ela ocupa em nossas vidas? E o que a arte tem a ver com tudo isso?<br/><br/>
 
 Além de ocupar um lugar concreto na realidade, a tecnologia povoa e, muitas vezes, tumultua nosso imaginário, atingindo diretamente nossos corpos, que parecem amortecidos diante de tantas variações e velocidades de transformações, inquietações e fabulações criativas. Seus dispositivos oferecem, cada vez mais, possibilidades de reinventar e recriar relações com os outros e com o mundo a nossa volta.<br/><br/>
 

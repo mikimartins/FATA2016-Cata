@@ -1,5 +1,5 @@
 O Afeto na Era de Sua Reprodutibilidade Digital: Thiago Hersan
-color: #78d2ce;
+color: rgba(204,204,204,0);
 "images/afeto_digital.jpg"
 
 Por bem ou por mal a internet e seus dispositivos tem mudado a forma que fazemos… tudo. Educação, comunicação, consumo, entretenimento... é difícil imaginar um aspecto de nossas vidas que não tenha sido influenciado por essa conectividade. A partir dos benefícios evidentes oferecidos por essa tecnologia (acesso à informação, otimização de recursos), como são os mecanismos com que esses dispositivos tem influenciado nosso comportamento?<br /><br />

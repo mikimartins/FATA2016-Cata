@@ -1,5 +1,5 @@
 XOXOXOLOLOLOL: Thiago Hersan
-color: #444;
+color: rgba(204,204,204,0);
 "images/bejo.jpg"
 
 <span class="note">Thiago Hersan fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh, e trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados. <br /><br />
