@@ -1,7 +1,7 @@
 Apresentação - o que é um cartálogo vivo?
 color: #ccc;
-
 "images/apresentação_catálogo_vivo_1.jpg"
+
 "images/apresentação_catálogo_vivo_2.jpg"
 "images/apresentação_catálogo_vivo_3.jpg"
 "images/apresentação_catálogo_vivo_4.jpg"

@@ -42,6 +42,7 @@ if __name__ == "__main__":
                         titleAuthor = line.split(":")
                         cTitle = titleAuthor[0].strip()
                         cAuthor = titleAuthor[-1].strip()
+                        cAuthor = '' if (cAuthor == cTitle) else cAuthor
                         TOC += "				<li><a href=\"#ch%s\">%s</a></li>\n"%(str(idx), cTitle)
                     elif line.startswith("color:"):
                         cTitleColor = line.strip()
