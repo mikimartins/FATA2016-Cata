@@ -1,4 +1,4 @@
 Epígrafe
-
+color: #ccc;
 
 "images/epígrafe_imagem.jpg"
