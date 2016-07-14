@@ -1,1 +1,12 @@
-OHMS
+OHMS: Dado Sutter, Mariana Salles, Antonio Lutfi
+color: rgba(204,204,204,0);
+"images/ohms.jpg"
+
+Dado Sutter:<br/>
+Criador do OHMS (Our Home MakerSpace) e desenvolvedor de software e hardware embedded, atuou como pesquisador pela PUC-Rio e é autor do framework de desenvolvimento eLua (Embedded Lua), atualmente em uso pela NASA. Foi o primeiro brasileiro a fabricar um computador pessoal caseiro, ainda em 1979, anos antes do primeiro IBM PC ser lançado.<br/><br/>
+
+Mariana Salles:<br/>
+Apaixonada pela interação inconsciente entre pessoas e produtos e acredita que lixo não deveria existir: fundou a Vrum Vrum, onde mouses se tornam carrinhos e as embalagens são suas garagens. Atualmente trabalha no OHMS desenvolvendo protótipos inteligentes, produtos inovadores e espalhando a educação para o fazer.<br/><br/>
+
+Antonio Lutfi:<br/>
+Há 12 anos apaixonado por programação e há 3 anos por visão computacional e processamento de imagem, mestre em informática pela PUC-Rio, foi o idealizador da Parede invisível.

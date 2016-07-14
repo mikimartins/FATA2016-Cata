@@ -1,1 +1,5 @@
 Thiago Hersan
+color: rgba(204,204,204,0);
+"images/thiago.jpg"
+
+Fez graduação e mestrado em Engenharia Elétrica e da Computação na Carnegie Mellon University em Pittsburgh. Já trabalhou pesquisando tecnologias de fabricação de semicondutores e circuitos integrados, mas hoje trabalha com educação, arte, cultura digital, e outras coisas.

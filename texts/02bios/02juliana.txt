@@ -1,1 +1,7 @@
 Juliana França
+color: rgba(204,204,204,0);
+"images/juliana.jpg"
+
+Juliana França é graduada em dança pela UNICAMP, especialista pela UFBA (universidade Federal da Bahia) em Estudos Contemporâneos em Dança. Tem desenvolvido o conceito de Sistemas Coreográficos, mais intensamente no projeto DARK ROOM e de forma indireta em seu projeto atual ■, realizado em Co-produção com SESC SP e em colaboração com Alejandro Ahmed. Em DARK ROOM estabelece interlocução com um grande número de artistas, onde se intensifica uma parceria com o coletivo paulistano COMO_Clube e os artistas Ana Dupas e Caio Cesar de Andrade.<br/><br/>
+
+Tem organizado e orientado residências coletivas e laboratórios de criação, sendo eles: DIREÇÃO (Festival CAUSA 2014); Residência artística Operação 2012; Dark RoomLab 1 Brinquedos sensoriais; Dark RoomLab 2 Sistemas Coreográficos; Dark Room – Laboratório de investigação.

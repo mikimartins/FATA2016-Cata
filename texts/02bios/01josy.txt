@@ -1,2 +1,6 @@
 Josy Panão
+color: rgba(204,204,204,0);
+"images/josy.jpg"
+
+Mestre em Comunicação e Semiótica pela Pontifícia Universidade Católica de São Paulo (PUC-SP, 2014), com estudo sobre processos de criação em arte. Em 2015, foi selecionada, pelo Goethe Institut de Bogotá, Siemens Stiftung, e Mapa Teatro-Laboratorio de Artistas, como bolsista para participar do IV Experimenta/Sur - Encuentro Internacional de Artes Vivas - Dramaturgias Expandidas; e fez parte da equipe curatorial do pavilhão do México, na Bienal de Veneza. Em 2014, ganhou o 1º. Prêmio de Residência para Curadores do Paço das Artes. Em 2011, foi assistente curatorial da exposição Lucas Bambozzi - o espaço entre nós e os outros, Laboratório Arte Alameda, México DF. Neste mesmo ano, retornou àquele país para participar da residência de curadoria para acompanhar o processo de montagem da exposição Machina Medium Apparatus. Em 2005, fez o apoio à curadoria na exposição Vorazes, Grotescos e Malvados, no Paço das Artes, São Paulo.
 

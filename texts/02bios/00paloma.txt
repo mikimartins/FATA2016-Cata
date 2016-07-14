@@ -1,1 +1,5 @@
 Paloma Oliveira
+color: rgba(204,204,204,0);
+"images/paloma.jpg"
+
+Atuações plurifacetadas em torno do campo da arte incluem ações de educação, desenvolvimento multimídia, pesquisa e criação de ações de empoderamento social. Atuando na área cultural como idealizadora e gestora de projetos, produtora e artista. Mestra em Artes Visuais pela USP, MedHacker-Unifesp (ações e hackeamento da medicina), com pesquisa focada no dialogo entre corpo (fisico e social) e as tecnologias sob uma perspectiva indisciplinar. Movida por paixões e curiosidades, colaborando para o que acredita ser uma necessária discussão acerca da subversividade por intermédio da prática do hacking e do compartilhamento de conhecimento.

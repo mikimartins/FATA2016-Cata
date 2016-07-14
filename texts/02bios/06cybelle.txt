@@ -1,1 +1,7 @@
 Cybelle Oliveira
+color: rgba(204,204,204,0);
+"images/cybelle.jpg"
+
+Produtora Cultural com foco em gestão de projetos em arte e tecnologia. Sua área de atuação compreende uma perspectiva interdisciplinar para desenvolvimento de pensamento crítico e promoção de ações propositoras para repensar o mundo em que vivemos. Formada em História pela USP e pós-graduada em Gestão Cultural pelo Senac.<br/><br/>
+
+Entre outros trabalhos, destacam-se a de assistente de produção na Convenção Internacional de PureData, a PdCon (2009), coordenação dos cursos de tecnologia criativa e performance e da residência artística do Instituto Volusiano de Artes (2013-2015), também desenvolveu e foi produtora executiva do projeto Volusiano na Praça (2015) ganhador do edital Redes e Ruas de cidadania, inclusão e cultura digital.
