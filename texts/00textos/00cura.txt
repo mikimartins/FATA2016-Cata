@@ -1,11 +1,6 @@
-Festival de Arte e Tecnologia de Atibaia
+Festival de Arte e Tecnologia de Atibaia: Josy Panão e Paloma Oliveira
 color: rgba(204,204,204,0);
 "images/fata_cartaz.jpg"
-
-Por Josy Panão e Paloma Oliveira
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 Como a tecnologia nos afeta e pode nos tornar mais sensíveis em nossas relações cotidianas? Que lugar ela ocupa em nossas vidas? E o que a arte tem a ver com tudo isso?<br/><br/>
 

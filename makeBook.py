@@ -50,9 +50,10 @@ if __name__ == "__main__":
                         if cHtml is "":
                             cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
                             cHtml += "            <img src=%s />\n"%line
-                            cHtml += "            <h2><span style=\"%s;\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(cTitleColor,cTitle, cAuthor)
+                            cHtml += "            <h2><span style=\"%s\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(cTitleColor,cTitle, cAuthor)
                             cHtml += "        </div>\n"
                             cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
+                            cHtml += "        <h2 class=\"chapter\">%s</h1>\n"%cAuthor
                         else:
                             cHtml += "        <div class=\"projcover\">\n"
                             cHtml += "            <img src=%s />\n"%line
