@@ -54,6 +54,16 @@ if __name__ == "__main__":
                             cHtml += "        </div>\n"
                             cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
                             cHtml += "        <h2 class=\"chapter\">%s</h1>\n"%cAuthor
+                        # hack to get images on TOC
+                        elif " ::TOC:: " in line:
+                            srcTitle = line.split(" ::TOC:: ")
+                            imgSrc = srcTitle[0].strip()
+                            imgTitle = srcTitle[1].strip()
+                            idx += 1
+                            TOC += "				<li><a href=\"#ch%s\">%s</a></li>\n"%(str(idx), imgTitle)
+                            cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
+                            cHtml += "            <img src=%s />\n"%imgSrc
+                            cHtml += "        </div>\n"
                         else:
                             cHtml += "        <div class=\"projcover\">\n"
                             cHtml += "            <img src=%s />\n"%line
