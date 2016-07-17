@@ -25,6 +25,10 @@ if __name__ == "__main__":
         TOC += "            <h3>%s</h3>\n"%thisHeading
         TOC += "            <ul class=\"toc\">\n"
 
+        if "bios" in thisDir:
+            BODY += "        <h1 class=\"chapter\">Bios</h1>\n"
+            BODY += "        <h2 class=\"chapter\"></h2>\n"
+            BODY += "        <div id=\"bio-container\">\n"
 
         for filename in [f for f in sorted(listdir(thisDir)) if f.endswith(".txt")]:
             fullPath = join(thisDir, filename)
@@ -48,12 +52,20 @@ if __name__ == "__main__":
                         cTitleColor = line.strip()
                     elif "images/" in line:
                         if cHtml is "":
-                            cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
-                            cHtml += "            <img src=%s />\n"%line
-                            cHtml += "            <h2><span style=\"%s\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(cTitleColor,cTitle, cAuthor)
-                            cHtml += "        </div>\n"
-                            cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
-                            cHtml += "        <h2 class=\"chapter\">%s</h1>\n"%cAuthor
+                            if "bios" in thisDir:
+                                cHtml += "            <div id=\"ch%s\" class=\"bio-row\">\n"%str(idx)
+                                cHtml += "                <div class=\"bio-name\">%s</div>\n"%cTitle
+                                cHtml += "                <div class=\"bio-img\">\n"
+                                cHtml += "                    <img src=%s />\n"%line.strip()
+                                cHtml += "                </div>\n"
+                                cHtml += "                <div class=\"bio-txt\">\n"
+                            else:
+                                cHtml += "        <div id=\"ch%s\" class=\"projcover\">\n"%str(idx)
+                                cHtml += "            <img src=%s />\n"%line.strip()
+                                cHtml += "            <h2><span style=\"%s\">%s<br /><span id=\"author\">%s</span></span></h2>\n"%(cTitleColor,cTitle, cAuthor)
+                                cHtml += "        </div>\n"
+                                cHtml += "        <h1 class=\"chapter\">%s</h1>\n"%cTitle
+                                cHtml += "        <h2 class=\"chapter\">%s</h2>\n"%cAuthor
                         # hack to get images on TOC
                         elif " ::TOC:: " in line:
                             srcTitle = line.split(" ::TOC:: ")
@@ -69,15 +81,24 @@ if __name__ == "__main__":
                             cHtml += "            <img src=%s />\n"%line
                             cHtml += "        </div>\n"
                     else:
-                        cHtml += "        %s\n"%line
+                        if "bios" in thisDir:
+                            cHtml += "                    %s\n"%line
+                        else:
+                            cHtml += "        %s\n"%line
                 txt.close()
+
+            if "bios" in thisDir:
+                cHtml += "                </div>\n"
+                cHtml += "            </div>\n"
 
             if cHtml is not "":
                 BODY += cHtml
             idx += 1
 
-        # close TOC
+        # close TOC and bios
         TOC += "            </ul>\n"
+        if "bios" in thisDir:
+            BODY += "        </div>\n"
 
     # write output file
     with open(BOOK_NAME+".html", 'w') as out, open(HTML_TEMPLATE) as temp:

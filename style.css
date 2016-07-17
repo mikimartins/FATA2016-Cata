@@ -179,6 +179,46 @@ body {
     flow: static(notes);
 }
 
+#bio-container {
+    width: 100%;
+}
+
+.bio-row {
+    width: 100%;
+    display: inline;
+    margin-bottom: 20px;
+    float: left;
+    clear: left;
+    page-break-inside: avoid;
+}
+
+.bio-name {
+    width: 100%;
+    font-size: 18px;
+    float: left;
+    clear: left;
+    page-break-after: avoid;
+}
+
+.bio-img {
+    width: 20%;
+    float: left;
+    clear: left;
+}
+
+.bio-img img {
+    width: 100%;
+}
+
+.bio-txt {
+    width: 75%;
+    font-size: 12px;
+    line-height: 1.3;
+    float: left;
+    clear: none;
+    padding-left: 10px;
+}
+
 /* get the title of the current chapter - this will be the content of the h1 */
 h1 {
     string-set: doctitle content();
