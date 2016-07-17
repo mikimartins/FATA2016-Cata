@@ -12,6 +12,7 @@ if __name__ == "__main__":
     BOOK_NAME = "FAT-Atibaia-2016"
     TOC_TAG = "<!-- !!! TOCTOCTOC !!! -->"
     BODY_TAG = "<!-- !!! BODYBODY !!! -->"
+    BIOS_DIRNAME = "pessoas"
     # ["#78d2ce", "#61ccf6", "#5758b2", "#6b3a9e", "#4e78c5"]
 
     BODY = ""
@@ -25,8 +26,8 @@ if __name__ == "__main__":
         TOC += "            <h3>%s</h3>\n"%thisHeading
         TOC += "            <ul class=\"toc\">\n"
 
-        if "bios" in thisDir:
-            BODY += "        <h1 class=\"chapter\">Bios</h1>\n"
+        if BIOS_DIRNAME in thisDir:
+            BODY += "        <h1 class=\"chapter\">%s</h1>\n"%thisHeading
             BODY += "        <h2 class=\"chapter\"></h2>\n"
             BODY += "        <div id=\"bio-container\">\n"
 
@@ -52,7 +53,7 @@ if __name__ == "__main__":
                         cTitleColor = line.strip()
                     elif "images/" in line:
                         if cHtml is "":
-                            if "bios" in thisDir:
+                            if BIOS_DIRNAME in thisDir:
                                 cHtml += "            <div id=\"ch%s\" class=\"bio-row\">\n"%str(idx)
                                 cHtml += "                <div class=\"bio-name\">%s</div>\n"%cTitle
                                 cHtml += "                <div class=\"bio-img\">\n"
@@ -81,13 +82,13 @@ if __name__ == "__main__":
                             cHtml += "            <img src=%s />\n"%line
                             cHtml += "        </div>\n"
                     else:
-                        if "bios" in thisDir:
+                        if BIOS_DIRNAME in thisDir:
                             cHtml += "                    %s\n"%line
                         else:
                             cHtml += "        %s\n"%line
                 txt.close()
 
-            if "bios" in thisDir:
+            if BIOS_DIRNAME in thisDir:
                 cHtml += "                </div>\n"
                 cHtml += "            </div>\n"
 
@@ -97,7 +98,7 @@ if __name__ == "__main__":
 
         # close TOC and bios
         TOC += "            </ul>\n"
-        if "bios" in thisDir:
+        if BIOS_DIRNAME in thisDir:
             BODY += "        </div>\n"
 
     # write output file
