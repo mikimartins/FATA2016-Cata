@@ -4,6 +4,11 @@
     size: 175mm 148mm;
 }
 
+@font-face {
+    font-family: "Treble";
+    src: url('fonts/Treble.ttf');
+}
+
 img {
     max-height: 148mm;
     margin-left: 50%;
@@ -68,7 +73,7 @@ div.projcover {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
         content: "Catálogo";
-        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
     }
@@ -76,14 +81,14 @@ div.projcover {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
         content: counter(page);
-        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
     }
     @top-right { 
         margin: 30pt 0 10pt;
         content: string(doctitle);
-        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
     }
@@ -101,7 +106,7 @@ Bottom right book title, bottom left current page */
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
         content: "Catálogo";
-        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
     }
@@ -109,7 +114,7 @@ Bottom right book title, bottom left current page */
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
         content: counter(page);
-        font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+        font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
     }
     @left-middle {
@@ -162,7 +167,7 @@ Bottom right book title, bottom left current page */
 /* reset chapter and figure counters on the body */
 body {
     counter-reset: chapternum;
-    font-family: "Trebuchet MS", "Lucida Grande", sans-serif;
+    font-family: "Treble", "Lucida Grande", sans-serif;
     line-height: 1.5;
     font-size: 12px;
     text-align: justify;
@@ -213,7 +218,7 @@ body {
 .bio-txt {
     width: 75%;
     font-size: 12px;
-    line-height: 1.3;
+    line-height: 1.33;
     float: left;
     clear: none;
     padding-left: 10px;
