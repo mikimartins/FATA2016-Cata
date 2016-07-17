@@ -31,7 +31,7 @@ div.frontcover, div.backcover {
     position: absolute;
     bottom: 14px;
     right: 14px;
-    color: #78d2ce;
+    color: rgba(120, 210, 206, 0.0);
     line-height: 100%;
 }
 
@@ -72,7 +72,7 @@ div.projcover {
     @bottom-left {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
-        content: "Catálogo";
+        content: "Festival de Arte e Tecnologia de Atibaia 2016";
         font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
@@ -105,7 +105,7 @@ Bottom right book title, bottom left current page */
     @bottom-right {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
-        content: "Catálogo";
+        content: "Festival de Arte e Tecnologia de Atibaia 2016";
         font-family: "Treble", "Lucida Grande", sans-serif;
         font-size: 11px;
         color: #333;
