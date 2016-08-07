@@ -1,5 +1,5 @@
 Incubadora de Artistas
-“images/logo-INCUBADORA.jpg”
+"images/logo-INCUBADORA.jpg"
 
 <p>Criada em 2013, a Incubadora de Artistas &eacute; uma iniciativa sem fins lucrativos, que tem como gestores os artistas Igor Spacek e Vitor Carvalho. Com mais de 20 anos de experi&ecirc;ncia e atua&ccedil;&atilde;o no dif&iacute;cil mundo das artes no Brasil, eles visualizaram uma maneira inovadora e colaborativa de apoio aos artistas.&nbsp; </p>
 <p>A ideia principal &eacute; fornecer apoio, fomento, informa&ccedil;&otilde;es, divulga&ccedil;&atilde;o e treinamento na &aacute;rea cultural, buscando tamb&eacute;m produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o de produtos e servi&ccedil;os criativos.</p>

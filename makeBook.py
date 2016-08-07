@@ -38,7 +38,7 @@ if __name__ == "__main__":
             cHtml = ""
             cTitle = ""
             cAuthor = ""
-            cTitleColor = "color: #78d2ce;"
+            cTitleColor = "color: rgba(204,204,204,0);"
 
             # expand the html and add to TOC list
             with open(fullPath) as txt:
