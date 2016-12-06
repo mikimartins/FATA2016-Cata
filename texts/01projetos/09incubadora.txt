@@ -4,9 +4,10 @@ Incubadora de Artistas
 <p>Criada em 2013, a Incubadora de Artistas &eacute; uma iniciativa sem fins lucrativos, que tem como gestores os artistas Igor Spacek e Vitor Carvalho. Com mais de 20 anos de experi&ecirc;ncia e atua&ccedil;&atilde;o no dif&iacute;cil mundo das artes no Brasil, eles visualizaram uma maneira inovadora e colaborativa de apoio aos artistas.&nbsp; </p>
 <p>A ideia principal &eacute; fornecer apoio, fomento, informa&ccedil;&otilde;es, divulga&ccedil;&atilde;o e treinamento na &aacute;rea cultural, buscando tamb&eacute;m produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o de produtos e servi&ccedil;os criativos.</p>
 <p>A Incubadora de Artistas tem como objetivo ser um polo catalisador de a&ccedil;&otilde;es culturais, centro de refer&ecirc;ncia e inova&ccedil;&atilde;o, com contrapartidas sociais e iniciativas diversificadas.</p>
-<p><strong>Local</strong></p>
+<br><br>
+<p><h3>Local</h3></p>
 <p>A sede da associa&ccedil;&atilde;o foi fundada em 13 de dezembro de 2013, na Pra&ccedil;a Claudino Alves (da Matriz), 78 &ndash; Centro &ndash; Atibaia &ndash; SP. O local recebe exposi&ccedil;&otilde;es de arte com entrada gratuita durante o ano todo. Apesar de estar sediada em Atibaia, a associa&ccedil;&atilde;o possui diversos projetos que atingem pessoas de todo o Brasil.</p>
-<p><strong>Projetos</strong></p>
+<p><h3>Projetos</h3></p>
 <p>Entre os principais projetos da Incubadora de Artistas est&atilde;o:</p>
 <p>- Festival Brasileiro de Nanometragem: Evento com o objetivo de estimular a produ&ccedil;&atilde;o audivisual, atrav&eacute;s da exibi&ccedil;&atilde;o em cinema e premia&ccedil;&atilde;o de filmes com dura&ccedil;&atilde;o m&aacute;xima de 45 segundos. Al&eacute;m de receberem a premia&ccedil;&atilde;o em dinheiro, os vencedores t&ecirc;m seus filmes exibidos durante os festivais parceiros de Contis, na Fran&ccedil;a, e Porto7, em Portugal;</p>
 <p>- Festival de Arte e Tecnologia: Com o intuito de aproximar o p&uacute;blico de Atibaia e cidades vizinhas de eventos inovadores, que normalmente s&oacute; s&atilde;o realizados em grandes centros urbanos, a Incubadora de Artistas promove o &uacute;nico Festival de Arte e Tecnologia da regi&atilde;o. Os artistas convidados a participar das mostras destacam-se nos cen&aacute;rios nacional e internacional;</p>
