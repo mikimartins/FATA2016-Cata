@@ -5,9 +5,11 @@ color: rgba(204,204,204,0);
 <span class="note" style="text-align:right;"></span>
 <span class="ne"></span>
 
-<p style="margin-top: -20px;">Residência artística que convida a pensar as relações entre corpo e tecnologia, provocando a invenção de extensões corporais a partir de materiais simples. A teoria dos sistemas apoia a investigação na medida em que se configura como um agregado de coisas que se relaciona, gerando uma coisa nova. Corpo e acoplamento são experimentados no sentido de gerar co-dependencia entre as partes, resultando em um novo organismo. O exercício de re-conhecer  o humano, inventando corpos, amplia a percepção sobre as transformações que o corpo vem experimentando diante das transformações dos meios e pode abrir, a partir da experiência, uma reflexão crítica sobre o assunto.<br/><br/>
+<p style="margin-top: -40px;">
+Residência artística que convida a pensar as relações entre corpo e tecnologia, provocando a invenção de extensões corporais a partir de materiais simples. A teoria dos sistemas apoia a investigação na medida em que se configura como um agregado de coisas que se relaciona, gerando uma coisa nova. Corpo e acoplamento são experimentados no sentido de gerar co-dependencia entre as partes, resultando em um novo organismo. O exercício de re-conhecer  o humano, inventando corpos, amplia a percepção sobre as transformações que o corpo vem experimentando diante das transformações dos meios e pode abrir, a partir da experiência, uma reflexão crítica sobre o assunto.<br/><br/>
 
-Esse encontro criativo produziu uma série de dispositivos em colaboração com as artistas Julia Holzhauser, Sol Guerreiro e Taiana Ferraz, expostos durante o Festival. A exposição é uma proposta de USO; um convite à soma, à emergência de novos organismos que se desenham quando o espectador funde seu corpo à obra, fechando o circuito.</p>
+Esse encontro criativo produziu uma série de dispositivos em colaboração com as artistas Julia Holzhauser, Sol Guerreiro e Taiana Ferraz, expostos durante o Festival. A exposição é uma proposta de USO; um convite à soma, à emergência de novos organismos que se desenham quando o espectador funde seu corpo à obra, fechando o circuito.
+</p>
 
 <h3 style="margin-bottom: 14px;">Diálogo gravitacional</h3>
 
