@@ -68,7 +68,7 @@ Exploda<br/>
 <span style="line-height: 190%;">
 O dispositivo é para duas pessoas<br/>
 a instrução é individual<br/>
-o encontro é sempre uma possibilidade<br/>
+o encontro é sempre uma possibilidade<br/><br/>
 
 <span style="font-weight:bold; text-transform: uppercase;">instrução para criar línguapluma:</span><br/>
 língua + pluma = línguapluma<br/>
