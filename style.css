@@ -80,7 +80,7 @@ span.inc-li {
 }
 
 @page:right{
-    margin: 20mm 40mm 20mm 20mm;
+    margin: 20mm 30mm;
     @bottom-left {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
@@ -113,7 +113,7 @@ span.inc-li {
 /* styles for the left hand spread 
 Bottom right book title, bottom left current page */
 @page:left {
-    margin: 20mm 20mm 20mm 40mm;
+    margin: 20mm 30mm;
     @bottom-right {
         margin: 10pt 0 30pt;
         border-top: .25pt solid #666;
