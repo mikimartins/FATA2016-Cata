@@ -5,181 +5,121 @@ color: rgba(204,204,204,0);
 <span class="note" style="text-align:right;"></span>
 <span class="ne"></span>
 
-Residência artística que convida a pensar as relações entre corpo e tecnologia, provocando a invenção de extensões corporais a partir de materiais simples. A teoria dos sistemas apoia a investigação na medida em que se configura como um agregado de coisas que se relaciona, gerando uma coisa nova. Corpo e acoplamento são experimentados no sentido de gerar co-dependencia entre as partes, resultando em um novo organismo. O exercício de re-conhecer  o humano, inventando corpos, amplia a percepção sobre as transformações que o corpo vem experimentando diante das transformações dos meios e pode abrir, a partir da experiência, uma reflexão crítica sobre o assunto.<br/><br/>
+<p style="margin-top: -20px;">Residência artística que convida a pensar as relações entre corpo e tecnologia, provocando a invenção de extensões corporais a partir de materiais simples. A teoria dos sistemas apoia a investigação na medida em que se configura como um agregado de coisas que se relaciona, gerando uma coisa nova. Corpo e acoplamento são experimentados no sentido de gerar co-dependencia entre as partes, resultando em um novo organismo. O exercício de re-conhecer  o humano, inventando corpos, amplia a percepção sobre as transformações que o corpo vem experimentando diante das transformações dos meios e pode abrir, a partir da experiência, uma reflexão crítica sobre o assunto.<br/><br/>
 
-Esse encontro criativo produziu uma série de dispositivos em colaboração com as artistas locais Julia Holzhauser, Sol Guerreiro e Taiana Ferraz, expostos durante o Festival. A exposição é uma proposta de USO; um convite à soma, à emergência de novos organismos que se desenham quando o espectador funde seu corpo à obra, fechando o circuito.<br/><br/>
+Esse encontro criativo produziu uma série de dispositivos em colaboração com as artistas Julia Holzhauser, Sol Guerreiro e Taiana Ferraz, expostos durante o Festival. A exposição é uma proposta de USO; um convite à soma, à emergência de novos organismos que se desenham quando o espectador funde seu corpo à obra, fechando o circuito.</p>
 
-<h3>Diálogo gravitacional</h3>
-Retire o tubo da parede para que ele possa fazer parte do seu corpo<br/><br/>
+<h3 style="margin-bottom: 14px;">Diálogo gravitacional</h3>
 
-Encontre o meio do tubo e apoie em um dos ombros<br/><br/>
-
-Encontre o ponto de equilíbrio do tubo e retire aos poucos o apoio das mãos<br/><br/>
-
-Observe os movimentos de oscilação do tubo<br/><br/>
-
-Observe os movimentos de oscilação do seu corpo<br/><br/>
-
-Observe a relação entre eles<br/><br/>
-
-Estabeleça um diálogo com o tubo utilizando a gravidade no lugar de palavras<br/><br/>
-
-A partir desse momento você e o tubo formam um novo organismo cinético<br/><br/>
-
-1 + 1 = 3<br/><br/>
-
-Aproveite seu novo corpo<br/><br/>
-
-Experimente o que ele pode fazer<br/><br/>
-
-Proponha<br/><br/>
-
-mova, caminhe, gire, aumente e diminua a velocidade<br/><br/>
-
-Ouça a proposta do tubo<br/><br/>
-
-perceba o que ele sugere ou pode<br/><br/>
-
-O diálogo termina quando tubo e corpo perdem a conexão física.<br/><br/>
+<span style="line-height: 190%;">
+Retire o tubo da parede para que ele possa fazer parte do seu corpo<br/>
+Encontre o meio do tubo e apoie em um dos ombros<br/>
+Encontre o ponto de equilíbrio do tubo e retire aos poucos o apoio das mãos<br/>
+Observe os movimentos de oscilação do tubo<br/>
+Observe os movimentos de oscilação do seu corpo<br/>
+Observe a relação entre eles<br/>
+Estabeleça um diálogo com o tubo utilizando a gravidade no lugar de palavras<br/>
+A partir desse momento você e o tubo formam um novo organismo cinético<br/>
+1 + 1 = 3<br/>
+Aproveite seu novo corpo<br/>
+Experimente o que ele pode fazer<br/>
+Proponha<br/>
+mova, caminhe, gire, aumente e diminua a velocidade<br/>
+Ouça a proposta do tubo<br/>
+perceba o que ele sugere ou pode<br/>
+O diálogo termina quando tubo e corpo perdem a conexão física.<br/>
+</span>
 
 "images/dialogo.jpg"
 
-<h2>+ -</h2>
+<h3 style="margin-top: 0px; margin-bottom: 14px; font-size: 32px; line-height: 80%; font-weight:bold;">+ -</h3>
 
-Dispositivo para duas pessoas<br/><br/>
+<span style="line-height: 190%;">
+Dispositivo para duas pessoas<br/>
+Pessoa A: vista a camiseta +<br/>
+Pessoa B: vista a camiseta –<br/>
+Tomem distância<br/>
 
-Pessoa A: vista a camiseta +<br/><br/>
+<span style="font-weight:bold; text-transform: uppercase;">os opostos se atraem</span><br/>
+A e B se aproximam até que as camisas se unam<br/>
+a união pode acontecer a partir de qualquer ponto da superfície de contato (camiseta)<br/>
+pausa<br/>
 
-Pessoa B: vista a camiseta –<br/><br/>
+<span style="font-weight:bold; text-transform: uppercase;">o limite</span><br/>
+Agora A e B devem se afastar testando o limite da conexão<br/>
+Perceba quando 1 + 1 = 3<br/>
+A resultante 3 pode se mover<br/>
+Andar, girar, sentar, dançar<br/>
 
-Tomem distância
-
-<h4>os opostos se atraem</h4><br/>
-
-A e B se aproximam até que as camisas se unam<br/><br/>
-
-a união pode acontecer a partir de qualquer ponto da superfície de contato (camiseta)<br/><br/>
-
-pausa
-
-<h4>o limite</h4><br/>
-
-Agora A e B devem se afastar testando o limite da conexão<br/><br/>
-
-Perceba quando 1 + 1 = 3<br/><br/>
-
-A resultante 3 pode se mover<br/><br/>
-
-Andar, girar, sentar, dançar
-
-<h4>a explosão</h4><br/>
-
-sem utilizar as mãos A e B devem se afastar lentamente saboreando a separação dos corpos<br/><br/>
-
-perceba o som<br/><br/>
-
-a densidade do movimento<br/><br/>
-
-o fim<br/><br/>
-
-Permita que o corpo seja lançado no espaço sem reservas<br/><br/>
-
-Exploda<br/><br/>
+<br/><br/>
+<span style="font-weight:bold; text-transform: uppercase;">a explosão</span><br/>
+sem utilizar as mãos A e B devem se afastar lentamente saboreando a separação dos corpos<br/>
+perceba o som<br/>
+a densidade do movimento<br/>
+o fim<br/>
+Permita que o corpo seja lançado no espaço sem reservas<br/>
+Exploda<br/>
+</span>
 
 "images/mais_menos.jpg"
 
-<h3>Línguapluma</h3>
+<h3 style="margin-top: 0px; margin-bottom: 14px; font-weight:bold;">Línguapluma</h3>
 
-O dispositivo é para duas pessoas<br/><br/>
+<span style="line-height: 190%;">
+O dispositivo é para duas pessoas<br/>
+a instrução é individual<br/>
+o encontro é sempre uma possibilidade<br/>
 
-a instrução é individual<br/><br/>
+<span style="font-weight:bold; text-transform: uppercase;">instrução para criar línguapluma:</span><br/>
+língua + pluma = línguapluma<br/>
+acople a pluma na língua de maneira que seja uma extensão dela<br/>
+para acoplar insira o cabo da pluma em um dos canudos dispostos<br/>
+em seguida leve à boca exercendo pressão com os lábios para que a pluma não caia<br/>
+pronto<br/>
 
-o encontro é sempre uma possibilidade
-
-<h4>instrução para criar línguapluma:</h4><br/>
-
-língua + pluma = línguapluma<br/><br/>
-
-acople a pluma na língua de maneira que seja uma extensão dela<br/><br/>
-
-para acoplar insira o cabo da pluma em um dos canudos dispostos<br/><br/>
-
-em seguida leve à boca exercendo pressão com os lábios para que a pluma não caia<br/><br/>
-
-pronto
-
-<h4>instrução para uma dançalambida ou beijo</h4><br/>
-
-comece a lamber o espaço com a línguapluma<br/><br/>
-
-a línguapluma inicia seu percurso<br/><br/>
-
-o percurso deve ser lento e contínuo<br/><br/>
-
-nunca acelera<br/><br/>
-
-nunca para<br/><br/>
-
-sempre diz sim<br/><br/>
-
-lamba o ar, as paredes, o chão, as pessoas, a outra línguapluma<br/><br/>
-
-todo caminho é importante<br/><br/>
-
-sinta as texturas com sua nova língua<br/><br/>
-
-sinta o contato com as superfícies<br/><br/>
-
-sinta o caminho entre uma superfície e outra<br/><br/>
-
-sinta a linguapluma no seu corpo<br/><br/>
-
-beije<br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<span style="font-weight:bold; text-transform: uppercase;">instrução para uma dançalambida ou beijo</span><br/>
+comece a lamber o espaço com a línguapluma<br/>
+a línguapluma inicia seu percurso<br/>
+o percurso deve ser lento e contínuo<br/>
+nunca acelera<br/>
+nunca para<br/>
+sempre diz sim<br/>
+lamba o ar, as paredes, o chão, as pessoas, a outra línguapluma<br/>
+todo caminho é importante<br/>
+sinta as texturas com sua nova língua<br/>
+sinta o contato com as superfícies<br/>
+sinta o caminho entre uma superfície e outra<br/>
+sinta a linguapluma no seu corpo<br/>
+beije<br/>
+</span>
 
 "images/linguapluma.jpg"
 
-<h3>Segunda pele</h3>
+<h3 style="margin-top: 0px; margin-bottom: 14px; font-weight:bold;">Segunda pele</h3>
 
-A roupa é extensão da pele<br/><br/>
-
-A casa é extensão da pele<br/><br/>
-
-A pele é a fronteira do corpo<br/><br/>
-
+<span style="line-height: 190%;">
+A roupa é extensão da pele<br/>
+A casa é extensão da pele<br/>
+A pele é a fronteira do corpo<br/>
 O corpo é material plástico<br/><br/>
-
-Retire o dispositivo da parede<br/><br/>
-
-Coloque no chão<br/><br/>
-
-Encontre a fenda<br/><br/>
-
-poro<br/><br/>
-
-Entre através dela<br/><br/>
-
-O espaço do corpo<br/><br/>
-
-O corpo do espaço<br/><br/>
-
-inverta<br/><br/>
-
-Tudo é móvel<br/><br/>
-
-Teto, parede, pé, chão, pele<br/><br/>
-
-inverta<br/><br/>
-
-mova<br/><br/>
-
-deite<br/><br/>
-
-role<br/><br/>
-
-...<br/><br/>
-
-quando quiser procure novamente a fenda para sair<br/><br/>
-
-renasça<br/><br/>
+Retire o dispositivo da parede<br/>
+Coloque no chão<br/>
+Encontre a fenda<br/>
+poro<br/>
+Entre através dela<br/>
+O espaço do corpo<br/>
+O corpo do espaço<br/>
+inverta<br/>
+Tudo é móvel<br/>
+Teto, parede, pé, chão, pele<br/>
+inverta<br/>
+mova<br/>
+deite<br/>
+role<br/>
+...<br/>
+quando quiser procure novamente a fenda para sair<br/>
+renasça<br/>
+</span>
 
 "images/pele.jpg"
