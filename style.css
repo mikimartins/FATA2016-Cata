@@ -67,6 +67,18 @@ div.projcover {
     line-height: 100%;
 }
 
+h3.inc-sub {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+span.inc-li {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 @page:right{
     margin: 20mm 40mm 20mm 20mm;
     @bottom-left {
